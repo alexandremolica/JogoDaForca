@@ -1,2 +1,2 @@
-# Jogo Da Forca
-Aprendizado Python - exemplo de trabalhar com Orientacao Objeto em Python
+# Aprendizado Python - Jogo Da Forca
+- Orientação a Objeto em Python
